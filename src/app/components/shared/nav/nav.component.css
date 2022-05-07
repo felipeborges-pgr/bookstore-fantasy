@@ -1,0 +1,31 @@
+
+.nav-config {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 18px;
+    color: aqua;
+    background-color: #5c325c;
+}
+
+.nav-link {
+    padding: 2px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.808);
+    
+}
+
+.button-nav {
+    background-color: #5c325c;
+    color: #f9e887;
+    border: 1px solid #f9e887;
+}
+
+.button-nav:hover {
+    background-color: #f9e887;
+    color: #000;
+}
+
+.nav-link:hover {
+    color:  white;
+}
+

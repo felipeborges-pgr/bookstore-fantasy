@@ -1,0 +1,47 @@
+{
+  "books": [
+      {
+          "id": 1,
+          "name": "Book1",
+          "price": "30",
+          "quantity": "2",
+          "category": "action",
+          "img": "img1.jpg"
+      },
+      {
+          "id": 2,
+          "name": "Book2",
+          "price": "12",
+          "quantity": "4",
+          "category": "action",
+          "img": "img2.jpg"
+      },
+      {
+          "id": 3,
+          "name": "Book3",
+          "price": "19",
+          "quantity": "4",
+          "category": "action",
+          "img": "img3.jpg"
+      },
+      {
+          "id": 4,
+          "name": "Book4",
+          "price": "21",
+          "quantity": "2",
+          "category": "action",
+          "img": "img4.jpg"
+      },
+      {
+          "id": 5,
+          "name": "Book5",
+          "price": "23",
+          "quantity": "5",
+          "category": "action",
+          "img": "img5.jpg"
+      }
+      
+  ]
+  
+
+}

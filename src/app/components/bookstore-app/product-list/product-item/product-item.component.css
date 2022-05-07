@@ -1,0 +1,27 @@
+img {
+    height: 420px;
+}
+
+.button-buy {
+    background-color: #5c325c;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.button-buy:hover {
+    background-color: white;
+    color: #5c325c;
+    border:1px solid #5c325c;
+}
+
+.button-details {
+    background-color: #944194;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.button-details:hover {
+    color: #944194;
+    background-color: #fff;
+    border: 1px solid #944194;
+}
