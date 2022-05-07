@@ -1,9 +1,17 @@
-# BookstoreFront
+# 📗 BookstoreFront
+Projeto que aborda conceitos de programação com Angular que tem como foco a criação de uma loja de livros online. Este projeto demonstra toda uma série de funcionalidades que são utilizadas na hora de desenvolver uma aplicação SPA, buscando efetivamente a aplicação de um padrão estrutural que existe para esse modelo.
+
+## 🖥️ Tecnologias Utilizadas
+- HTML
+- CSS
+- TypeScript
+- Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
 
+## Settings Aplication
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
